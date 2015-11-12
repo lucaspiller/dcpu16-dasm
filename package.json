@@ -10,7 +10,8 @@
     "dasm": "bin/dasm"
   },
   "dependencies": {
-    "commander": "^2.9.0"
+    "commander": "^2.9.0",
+    "glob": "^6.0.1"
   },
   "devDependencies": {},
   "author": "Luca Spiller",
